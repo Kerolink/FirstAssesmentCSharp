@@ -1,4 +1,4 @@
-# - [ ] FirstAssesmentCSharp
+# FirstAssesmentCSharp
 
 ## “Instrucciones:”
 
